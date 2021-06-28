@@ -1,5 +1,5 @@
 # jdbcMysql
-<p>Java'da Mysql bağlantısı sağlanarak JDBC ile bir <b>calisanlar</b> veritabanı üzerinde personel ekleme, silme, güncelleme gibi işlemler yapıldı. </p>
+<p>Java'da Mysql bağlantısı sağlanarak JDBC ile bir <b>calisanlar</b> veritabanı üzerinde personel (CRUD) ekleme, silme, güncelleme gibi işlemler yapıldı. </p>
 <br/>
 
 <table style="width:100%">
